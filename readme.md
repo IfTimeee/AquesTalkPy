@@ -72,7 +72,6 @@ AquesTalkPy/
 pip install -r requirements.txt
 ```
 
-您也可以使用本项目内置的嵌入式python作为解释器
 
 ## 使用方法
 
